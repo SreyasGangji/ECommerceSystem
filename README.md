@@ -34,7 +34,7 @@ The project consists of the following main components:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/online-shopping-system.git
+   git clone https://github.com/SreyasGangji/ECommerceSystem.git
    cd online-shopping-system
 2. **Open the project in your IDE**:
 
